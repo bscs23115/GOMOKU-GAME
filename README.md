@@ -1,2 +1,2 @@
 # GOMOKU-GAME
-This is a project of generalized Gomoku Game
+This project is a Gomoku game developed using fundamental programming concepts. The game features a generalized grid that can be customized to suit different game variations. Players have the option to choose the number of participants and set the win count, allowing for flexible gameplay. The interface is kept intentionally simple, with a character-based design that emphasizes the core mechanics of the game. Additionally, an AI version is implemented, enabling human vs. computer matches, offering a challenging experience against the computer. This project serves as a solid foundation for understanding game logic, AI implementation, and user interaction in a console-based environment.
